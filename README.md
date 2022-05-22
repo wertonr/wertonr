@@ -9,8 +9,15 @@
 - 🔭 Atualmente sou atuário do IPMJP e professor da UFPB
 - 🌱 Estudando Ciência de dados
 - 😄 Pronomes: ele/dele
+- ⚡ Linguagens:
 
 <br>
+
+<div align="left"><br>
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="R" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+            
+</div> 
 
 <div align="center">
   <a href="https://github.com/wertonr">
@@ -19,12 +26,6 @@
 </div>
    
         
-<div align="center"><br>
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="R" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-            
-</div> 
-
 ##
   
 <!--
