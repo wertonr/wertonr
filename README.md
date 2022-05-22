@@ -5,7 +5,8 @@
     <a href="https://www.linkedin.com/in/werton-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-- 🔭 Atualmente sou atuário do IPMJP e professor substituto da UFRN
+
+- 🔭 Atualmente sou atuário do IPMJP e professor da UFPB
 - 🌱 Estudando Python e R
 - 😄 Pronomes: ele/dele
 
