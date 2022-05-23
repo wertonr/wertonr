@@ -9,6 +9,7 @@
 - 🔭 Atualmente sou atuário do IPMJP e professor da UFPB
 - 🌱 Estudando Ciência de dados
 - 😄 Pronomes: ele/dele
+- 🤔 Criei o GitHub recentemente, então ainda não esta atualizado com programas antigos e os que estou desenvolvendo.
 
 <br>
 
